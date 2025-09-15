@@ -1,2 +1,3 @@
 # categories-db
-database storage of domain categories
+
+raw database storage of domain categories (private)
