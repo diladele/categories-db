@@ -2,6 +2,7 @@
 {"name": "ecb.int", "categories": ["banking_insurance_finance", "government"], "verified": false}
 {"name": "emcdda.eu.int", "categories": ["drugs"], "verified": false}
 {"name": "euro-ombudsman.eu.int", "categories": ["government"], "verified": false}
+{"name": "eurocontrol.int", "categories": ["business_services_industry"], "verified": true}
 {"name": "europa.eu.int", "categories": ["government"], "verified": false}
 {"name": "europarl.eu.int", "categories": ["government"], "verified": false}
 {"name": "reports.eea.eu.int", "categories": ["news_media"], "verified": false}
