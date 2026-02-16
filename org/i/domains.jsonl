@@ -1494,7 +1494,7 @@
 {"name": "ipfamilytaichi.org", "categories": ["sports"], "verified": false}
 {"name": "iphc.org", "categories": ["religious"], "verified": false}
 {"name": "iphider.org", "categories": ["proxy_anonymizer"], "verified": false}
-{"name": "ipify.org", "categories": ["user_tracking"], "verified": false}
+{"name": "ipify.org", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "ipjc.org", "categories": ["religious"], "verified": false}
 {"name": "ipkill.org", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "iplogger.org", "categories": ["user_tracking"], "verified": false}
