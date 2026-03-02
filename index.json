@@ -3984,6 +3984,10 @@
         "checksum": "8FC971149030C5F00831D74D68D9D161"
     },
     {
+        "path": "/chat/i/domains.jsonl",
+        "checksum": "BA8A2114CCEC1F291E5398791EC73223"
+    },
+    {
         "path": "/chat/r/domains.jsonl",
         "checksum": "6D1206177AF7DCDAC02CA51897FF9FFB"
     },
@@ -4981,7 +4985,7 @@
     },
     {
         "path": "/com/t/domains.jsonl",
-        "checksum": "6A9449A2ECDE05D6F54305D767576EEB"
+        "checksum": "D927D1FFACFEB748E222BA217DCE6FC1"
     },
     {
         "path": "/com/u/domains.jsonl",
@@ -24506,9 +24510,5 @@
     {
         "path": "/zw/z/domains.jsonl",
         "checksum": "8A43EF66F405620A6ECE51097780DDD3"
-    },
-    {
-        "path": "/chat/i/domains.jsonl",
-        "checksum": "BA8A2114CCEC1F291E5398791EC73223"
     }
 ]
