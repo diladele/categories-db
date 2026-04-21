@@ -2450,7 +2450,7 @@
 {"name": "bidseeghifoo.net", "categories": ["advertising"], "verified": false}
 {"name": "bidsex.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "bidster.net", "categories": ["advertising"], "verified": false}
-{"name": "bidswitch.net", "categories": ["user_tracking"], "verified": false}
+{"name": "bidswitch.net", "categories": ["advertising", "user_tracking"], "verified": false}
 {"name": "biellain.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "bierdeckelsammler.net", "categories": ["alcohol_tobacco"], "verified": false}
 {"name": "biexperience.net", "categories": ["nudity_pornography"], "verified": false}
