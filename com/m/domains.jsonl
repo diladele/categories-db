@@ -43150,6 +43150,7 @@
 {"name": "mozergallery.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "mozgvya.com", "categories": ["advertising"], "verified": false}
 {"name": "mozifox.com", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "mozilla-ohttp.fastly-edge.com", "categories": ["network_infrastructure"], "verified": true}
 {"name": "mozilla.com", "categories": ["software_technology_hardware"], "verified": false}
 {"name": "mozingolf.com", "categories": ["sports"], "verified": false}
 {"name": "mozinor.com", "categories": ["entertainment_humor_hobby"], "verified": false}
