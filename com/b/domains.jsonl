@@ -59330,7 +59330,8 @@
 {"name": "brightblades.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "brightbutts.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "brightcloud.com", "categories": ["software_technology_hardware"], "verified": false}
-{"name": "brightcove.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": false}
+{"name": "brightcove.com", "categories": ["streaming_video_television"], "verified": true}
+{"name": "brightcovecdn.com", "categories": ["streaming_video_television"], "verified": true}
 {"name": "brightcreationspoetry.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "brightcriticism.com", "categories": ["advertising"], "verified": false}
 {"name": "brightdata.com", "categories": ["user_tracking"], "verified": false}
