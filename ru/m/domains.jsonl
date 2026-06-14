@@ -84,6 +84,7 @@
 {"name": "medialand.ru", "categories": ["advertising"], "verified": false}
 {"name": "mediametrics.ru", "categories": ["user_tracking"], "verified": false}
 {"name": "mediapix.ru", "categories": ["file_storage"], "verified": false}
+{"name": "mediatoday.ru", "categories": ["advertising"], "verified": true}
 {"name": "mediator.mail.ru", "categories": ["user_tracking"], "verified": false}
 {"name": "medow.ru", "categories": ["nudity_pornography"], "verified": true}
 {"name": "meetlady.ru", "categories": ["dating"], "verified": false}
