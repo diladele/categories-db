@@ -492,6 +492,7 @@
 {"name": "viewcollege.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "viewconcealed.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "viewdata.info", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "viewdns.info", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "viewerprivacy.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "vieweverything.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "viewfacebook.info", "categories": ["proxy_anonymizer"], "verified": false}
