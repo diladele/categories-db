@@ -6354,7 +6354,7 @@
 {"name": "watthaiuk.com", "categories": ["religious"], "verified": false}
 {"name": "wattlecreek.com", "categories": ["alcohol_tobacco"], "verified": false}
 {"name": "wattleydiscus.com", "categories": ["ecommerce_shopping"], "verified": false}
-{"name": "wattpad.com", "categories": ["social_networking"], "verified": false}
+{"name": "wattpad.com", "categories": ["arts_society_culture", "social_networking"], "verified": true}
 {"name": "wattscolorlab.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "wattsinfrance.com", "categories": ["travel"], "verified": false}
 {"name": "wattstapes.com", "categories": ["religious"], "verified": false}
