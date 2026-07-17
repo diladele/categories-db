@@ -23011,6 +23011,7 @@
 {"name": "flight-link.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "flight001.com", "categories": ["ecommerce_shopping", "travel"], "verified": false}
 {"name": "flightarrivals.com", "categories": ["travel"], "verified": false}
+{"name": "flightaware.com", "categories": ["transportation", "travel"], "verified": true}
 {"name": "flightbasketball.com", "categories": ["sports"], "verified": false}
 {"name": "flightcases-rockpack.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "flightcentral.com", "categories": ["ecommerce_shopping"], "verified": false}
