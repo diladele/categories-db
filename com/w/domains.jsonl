@@ -3070,7 +3070,7 @@
 {"name": "w3privacy.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "w3proxy.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "w3publishing.com", "categories": ["nudity_pornography"], "verified": false}
-{"name": "w3schools.com", "categories": ["software_technology_hardware"], "verified": false}
+{"name": "w3schools.com", "categories": ["education_science_research", "software_technology_hardware"], "verified": true}
 {"name": "w3sexe.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "w3surfer.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "w4.com", "categories": ["advertising"], "verified": false}

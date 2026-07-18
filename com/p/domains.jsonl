@@ -25531,7 +25531,7 @@
 {"name": "pintdapico.com", "categories": ["advertising"], "verified": false}
 {"name": "pintechdrumkits.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "pintendre.com", "categories": ["ecommerce_shopping"], "verified": false}
-{"name": "pinterest.com", "categories": ["photo_sharing", "social_networking"], "verified": false}
+{"name": "pinterest.com", "categories": ["photo_sharing", "social_networking"], "verified": true}
 {"name": "pintfunnel.com", "categories": ["advertising"], "verified": false}
 {"name": "pintheb.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "pinthumbs.com", "categories": ["nudity_pornography"], "verified": false}
@@ -27037,6 +27037,7 @@
 {"name": "pixtime.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "pixtiz.com", "categories": ["games"], "verified": false}
 {"name": "pixtm.com", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "pixton.com", "categories": ["education_science_research"], "verified": true}
 {"name": "pixtop.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "pixtor.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "pixtorie.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -29404,6 +29405,7 @@
 {"name": "playescort.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "playestrellagolf.com", "categories": ["sports"], "verified": false}
 {"name": "playeurolotto.com", "categories": ["gambling"], "verified": false}
+{"name": "playfactile.com", "categories": ["education_science_research"], "verified": true}
 {"name": "playfairtoys.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "playfartuna.com", "categories": ["gambling"], "verified": false}
 {"name": "playfastcasino.com", "categories": ["gambling"], "verified": false}
