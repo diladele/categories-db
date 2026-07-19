@@ -14,6 +14,7 @@
 {"name": "pgs.io", "categories": ["user_tracking"], "verified": false}
 {"name": "phts.io", "categories": ["advertising"], "verified": false}
 {"name": "piano.io", "categories": ["user_tracking"], "verified": true}
+{"name": "picsart.io", "categories": ["generative_ai", "photo_sharing"], "verified": true}
 {"name": "pijper.io", "categories": ["user_tracking"], "verified": false}
 {"name": "pinklion.io", "categories": ["advertising"], "verified": false}
 {"name": "pirsch.io", "categories": ["user_tracking"], "verified": false}

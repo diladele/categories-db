@@ -862,6 +862,7 @@
 {"name": "safrancrafts.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "safrica.co.uk", "categories": ["travel"], "verified": false}
 {"name": "sagepay.co.uk", "categories": ["banking_insurance_finance"], "verified": false}
+{"name": "sagepayrollservices.co.uk", "categories": ["banking_insurance_finance"], "verified": true}
 {"name": "sagk.org.uk", "categories": ["religious"], "verified": false}
 {"name": "sahajasculptures.co.uk", "categories": ["religious"], "verified": false}
 {"name": "sahajayoga.org.uk", "categories": ["religious"], "verified": false}
@@ -6235,6 +6236,7 @@
 {"name": "stokepoolleague.co.uk", "categories": ["sports"], "verified": false}
 {"name": "stokesbarn.co.uk", "categories": ["travel"], "verified": false}
 {"name": "stokeseniors.co.uk", "categories": ["sports"], "verified": false}
+{"name": "stokesentinel.co.uk", "categories": ["news_media"], "verified": true}
 {"name": "stokesleygolfrange.co.uk", "categories": ["sports"], "verified": false}
 {"name": "stokespitfireskorfball.org.uk", "categories": ["sports"], "verified": false}
 {"name": "stokeuta-taekwondo.co.uk", "categories": ["sports"], "verified": false}

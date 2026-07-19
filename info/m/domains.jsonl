@@ -296,6 +296,7 @@
 {"name": "mailproxies.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "mailproxyanonymous.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "mailproxysite.info", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "mailscanner.info", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "maindecor.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "mainesearch.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "mainproxy.info", "categories": ["proxy_anonymizer"], "verified": false}
