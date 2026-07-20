@@ -13026,6 +13026,7 @@
 {"name": "scottishelements.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "scottishendurance.com", "categories": ["sports"], "verified": false}
 {"name": "scottishequestrianhotel.com", "categories": ["sports", "travel"], "verified": false}
+{"name": "scottishfinancialnews.com", "categories": ["news_media"], "verified": true}
 {"name": "scottishfoodoverseas.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "scottishfootballleague.com", "categories": ["sports"], "verified": false}
 {"name": "scottishgifts.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -17314,6 +17315,7 @@
 {"name": "seghesio.com", "categories": ["alcohol_tobacco"], "verified": false}
 {"name": "segment-analytics.com", "categories": ["user_tracking"], "verified": false}
 {"name": "segment.com", "categories": ["user_tracking"], "verified": false}
+{"name": "segmentapis.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "segmentcoax.com", "categories": ["advertising"], "verified": false}
 {"name": "segmentedbowls.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "segmentedturning.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -55122,6 +55124,7 @@
 {"name": "shortnow.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "shortonsex.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "shortpenis.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "shortpixel.com", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "shortplaidskirts.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "shortridgehouse.com", "categories": ["travel"], "verified": false}
 {"name": "shorts-express.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -60556,6 +60559,7 @@
 {"name": "sitecompass.com", "categories": ["user_tracking"], "verified": false}
 {"name": "sitecondom.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "siteconsultant.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "sitecore.com", "categories": ["generative_ai", "software_technology_hardware"], "verified": true}
 {"name": "sitecreeper.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "sitedataprocessing.com", "categories": ["user_tracking"], "verified": false}
 {"name": "sitedeapostas.com", "categories": ["gambling"], "verified": false}

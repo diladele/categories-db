@@ -861,6 +861,7 @@
 {"name": "safloraplants.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "safrancrafts.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "safrica.co.uk", "categories": ["travel"], "verified": false}
+{"name": "sage.co.uk", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "sagepay.co.uk", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "sagepayrollservices.co.uk", "categories": ["banking_insurance_finance"], "verified": true}
 {"name": "sagk.org.uk", "categories": ["religious"], "verified": false}
@@ -3913,7 +3914,9 @@
 {"name": "smartins-ruislip.co.uk", "categories": ["religious"], "verified": false}
 {"name": "smartpack.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "smartpartseurope.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "smartsignatures.co.uk", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "smartspeedater.co.uk", "categories": ["dating"], "verified": false}
+{"name": "smartsurvey.co.uk", "categories": ["business_services_industry"], "verified": true}
 {"name": "smarttargetting.co.uk", "categories": ["advertising"], "verified": false}
 {"name": "smarttart.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "smartturnout.co.uk", "categories": ["ecommerce_shopping"], "verified": false}

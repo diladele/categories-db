@@ -557,6 +557,7 @@
 {"name": "edwardianlodge.co.uk", "categories": ["travel"], "verified": false}
 {"name": "edwardsbbs.co.uk", "categories": ["sports"], "verified": false}
 {"name": "edwardschina.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "edwardsgrounds.co.uk", "categories": ["real_estate_home_interior"], "verified": true}
 {"name": "edwardsleathercraft.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "edwinallen.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "edwinsfordestate.co.uk", "categories": ["travel"], "verified": false}
@@ -996,6 +997,7 @@
 {"name": "england-football.co.uk", "categories": ["sports"], "verified": false}
 {"name": "england-mad.co.uk", "categories": ["sports"], "verified": false}
 {"name": "england-netball.co.uk", "categories": ["sports"], "verified": false}
+{"name": "england.nhs.uk", "categories": ["government", "health_medicine_fitness"], "verified": true}
 {"name": "england2008.co.uk", "categories": ["sports"], "verified": false}
 {"name": "england2010.co.uk", "categories": ["sports"], "verified": false}
 {"name": "englandcrusaders.co.uk", "categories": ["sports"], "verified": false}
@@ -1564,6 +1566,7 @@
 {"name": "essiecroftbedandbreakfast.co.uk", "categories": ["travel"], "verified": false}
 {"name": "est-tours.co.uk", "categories": ["travel"], "verified": false}
 {"name": "est1892.co.uk", "categories": ["sports"], "verified": false}
+{"name": "estatesgazette.co.uk", "categories": ["real_estate_home_interior"], "verified": true}
 {"name": "esteemjewellery.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "estel.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "estellesflorist.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
