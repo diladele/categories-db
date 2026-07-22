@@ -9,6 +9,7 @@
 {"name": "adexchange.io", "categories": ["advertising"], "verified": false}
 {"name": "adforge.io", "categories": ["advertising"], "verified": false}
 {"name": "adgrid.io", "categories": ["advertising"], "verified": false}
+{"name": "adguard-dns.io", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "aditude.io", "categories": ["advertising"], "verified": false}
 {"name": "adless.io", "categories": ["user_tracking"], "verified": false}
 {"name": "adlive.io", "categories": ["advertising"], "verified": false}
@@ -46,6 +47,7 @@
 {"name": "aon.io", "categories": ["business_services_industry"], "verified": false}
 {"name": "apeagle.io", "categories": ["user_tracking"], "verified": false}
 {"name": "apenterprise.io", "categories": ["user_tracking"], "verified": false}
+{"name": "apollo.io", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "apolloprogram.io", "categories": ["user_tracking"], "verified": false}
 {"name": "appcast.io", "categories": ["user_tracking"], "verified": false}
 {"name": "apxl.io", "categories": ["user_tracking"], "verified": false}
@@ -61,5 +63,6 @@
 {"name": "aufp.io", "categories": ["user_tracking"], "verified": false}
 {"name": "autopay.io", "categories": ["business_services_industry"], "verified": true}
 {"name": "axept.io", "categories": ["user_tracking"], "verified": false}
+{"name": "azurecontainerapps.io", "categories": ["generic_non_categorized"], "verified": true}
 {"name": "cotedazurhotel.accommodation.io", "categories": ["travel"], "verified": false}
 {"name": "macro.adnami.io", "categories": ["advertising"], "verified": false}
