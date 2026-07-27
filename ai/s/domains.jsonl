@@ -10,3 +10,4 @@
 {"name": "soko.ai", "categories": ["user_tracking"], "verified": false}
 {"name": "speakup.ai", "categories": ["music_radio"], "verified": true}
 {"name": "splash.ai", "categories": ["travel"], "verified": false}
+{"name": "suno.ai", "categories": ["generative_ai", "music_radio"], "verified": true}

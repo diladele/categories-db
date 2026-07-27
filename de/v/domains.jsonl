@@ -100,6 +100,7 @@
 {"name": "vaticarsten.de", "categories": ["religious"], "verified": false}
 {"name": "vaylinor.de", "categories": ["religious"], "verified": false}
 {"name": "vbb.de", "categories": ["travel"], "verified": true}
+{"name": "vbl.de", "categories": ["banking_insurance_finance", "government"], "verified": true}
 {"name": "vbn.de", "categories": ["travel"], "verified": true}
 {"name": "vbpf.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "vcc.de", "categories": ["streaming_video_television"], "verified": false}
@@ -535,6 +536,7 @@
 {"name": "volksbank-baden-baden-rastatt.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "volksbank-freiburg.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "volksbank-karlsruhe.de", "categories": ["banking_insurance_finance"], "verified": false}
+{"name": "volksbankinostwestfalen.de", "categories": ["banking_insurance_finance"], "verified": true}
 {"name": "volksbibel.de", "categories": ["religious"], "verified": false}
 {"name": "volksmission-donzdorf.de", "categories": ["religious"], "verified": false}
 {"name": "volksverein.de", "categories": ["religious"], "verified": false}
