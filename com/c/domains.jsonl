@@ -39701,6 +39701,7 @@
 {"name": "cloudflare-dns.com", "categories": ["network_infrastructure"], "verified": true}
 {"name": "cloudflare.com", "categories": ["content_delivery_networks", "generic_non_categorized"], "verified": false}
 {"name": "cloudflareinsights.com", "categories": ["user_tracking"], "verified": false}
+{"name": "cloudflarestream.com", "categories": ["business_services_industry", "software_technology_hardware", "streaming_video_television"], "verified": true}
 {"name": "cloudflrcdn.com", "categories": ["advertising"], "verified": false}
 {"name": "cloudforestadventure.com", "categories": ["travel"], "verified": false}
 {"name": "cloudforestadventures.com", "categories": ["travel"], "verified": false}
