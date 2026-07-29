@@ -6742,6 +6742,7 @@
 {"name": "samsungacr.com", "categories": ["advertising"], "verified": false}
 {"name": "samsungads.com", "categories": ["advertising"], "verified": false}
 {"name": "samsungbaby.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "samsungcloud.com", "categories": ["file_storage", "software_technology_hardware"], "verified": true}
 {"name": "samsungparts.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "samsungrb.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "samsungstore.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -13756,6 +13757,7 @@
 {"name": "scrupulousgroundmonths.com", "categories": ["advertising"], "verified": false}
 {"name": "scrupulousyet.com", "categories": ["advertising"], "verified": false}
 {"name": "scruzall.com", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "scryfall.com", "categories": ["games", "search_engines"], "verified": true}
 {"name": "scrymeddle.com", "categories": ["advertising"], "verified": false}
 {"name": "scs-packers.blogspot.com", "categories": ["sports"], "verified": false}
 {"name": "scsalliance.com", "categories": ["banking_insurance_finance"], "verified": false}
@@ -60100,6 +60102,7 @@
 {"name": "siriusquest.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "siriusreplicas.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "siriusware.com", "categories": ["travel"], "verified": false}
+{"name": "siriusxm.com", "categories": ["entertainment_humor_hobby", "music_radio", "streaming_video_television"], "verified": true}
 {"name": "sirjackpot.com", "categories": ["gambling"], "verified": false}
 {"name": "sirjasonwinters.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "sirjoseph.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -77863,6 +77866,7 @@
 {"name": "spellingorganicbile.com", "categories": ["advertising"], "verified": false}
 {"name": "spellingpigeonssecret.com", "categories": ["advertising"], "verified": false}
 {"name": "spellingreasoningexamine.com", "categories": ["advertising"], "verified": false}
+{"name": "spellingstars.com", "categories": ["education_science_research"], "verified": true}
 {"name": "spellingunacceptable.com", "categories": ["advertising"], "verified": false}
 {"name": "spellingunforgivablesneak.com", "categories": ["advertising"], "verified": false}
 {"name": "spellkitsforbelievers.com", "categories": ["religious"], "verified": false}

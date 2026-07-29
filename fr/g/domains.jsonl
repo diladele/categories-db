@@ -171,6 +171,7 @@
 {"name": "geo-idm.fr", "categories": ["advertising"], "verified": false}
 {"name": "geo.fr", "categories": ["news_media"], "verified": false}
 {"name": "geobiologie.fr", "categories": ["religious"], "verified": false}
+{"name": "geopf.fr", "categories": ["government"], "verified": true}
 {"name": "gerardchaussures.fr", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "germangoogirls.fr", "categories": ["nudity_pornography"], "verified": false}
 {"name": "gettyimages.fr", "categories": ["ecommerce_shopping", "photo_sharing"], "verified": false}
