@@ -4509,6 +4509,7 @@
 {"name": "keepbrowsing.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "keepcalmanduseaproxy.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "keepclip.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "keepeek.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "keeper-skool.com", "categories": ["sports"], "verified": false}
 {"name": "keeper.com", "categories": ["ecommerce_shopping", "nudity_pornography"], "verified": false}
 {"name": "keeperfantasyleagues.com", "categories": ["ecommerce_shopping", "sports"], "verified": false}
@@ -11119,6 +11120,7 @@
 {"name": "klaritymusic.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "klarksarea.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "klarna.com", "categories": ["banking_insurance_finance"], "verified": true}
+{"name": "klarnaservices.com", "categories": ["banking_insurance_finance"], "verified": true}
 {"name": "klaro.com", "categories": ["travel"], "verified": false}
 {"name": "klascar.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "klasikfashion.com", "categories": ["ecommerce_shopping"], "verified": false}

@@ -10,9 +10,11 @@
 {"name": "ibz.be", "categories": ["government"], "verified": true}
 {"name": "iceware.be", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "ichatbox.be", "categories": ["nudity_pornography"], "verified": false}
+{"name": "iciparisxl.be", "categories": ["ecommerce_shopping", "fashion_beauty_cosmetics"], "verified": true}
 {"name": "icordis.be", "categories": ["generic_non_categorized"], "verified": false}
 {"name": "idewe.be", "categories": ["business_services_industry"], "verified": false}
 {"name": "iet.be", "categories": ["religious"], "verified": false}
+{"name": "ifapme.be", "categories": ["education_science_research", "jobs_employment_career"], "verified": true}
 {"name": "igol.be", "categories": ["games"], "verified": false}
 {"name": "ihcl.be", "categories": ["sports"], "verified": false}
 {"name": "iil.be", "categories": ["proxy_anonymizer"], "verified": false}
@@ -39,6 +41,7 @@
 {"name": "imagesexe.be", "categories": ["nudity_pornography"], "verified": false}
 {"name": "imaj.be", "categories": ["religious"], "verified": false}
 {"name": "imboorling.be", "categories": ["entertainment_humor_hobby"], "verified": false}
+{"name": "immo-connect.be", "categories": ["real_estate_home_interior"], "verified": true}
 {"name": "immo-jet.be", "categories": ["real_estate_home_interior"], "verified": false}
 {"name": "immobe.be", "categories": ["travel"], "verified": false}
 {"name": "immomarckx.be", "categories": ["alcohol_tobacco"], "verified": false}
