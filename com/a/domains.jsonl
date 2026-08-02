@@ -55729,6 +55729,7 @@
 {"name": "appsflyer.com", "categories": ["user_tracking"], "verified": false}
 {"name": "appshui.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "appslime.com", "categories": ["advertising"], "verified": false}
+{"name": "appspace.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "appspect.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "appspot.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": false}
 {"name": "appsprelandlab.com", "categories": ["advertising"], "verified": false}
@@ -75137,6 +75138,7 @@
 {"name": "awsq.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "awsstatic.com", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "awsurveys.com", "categories": ["advertising"], "verified": false}
+{"name": "awswaf.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "awswireless.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "awtalk.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "awtfkaracoc.com", "categories": ["advertising"], "verified": false}

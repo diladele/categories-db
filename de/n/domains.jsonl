@@ -854,6 +854,7 @@
 {"name": "nordjugend.de", "categories": ["religious"], "verified": false}
 {"name": "nordlb.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "nordzeit.de", "categories": ["hate_discrimination_violence"], "verified": false}
+{"name": "norelem.de", "categories": ["business_services_industry", "ecommerce_shopping"], "verified": true}
 {"name": "norge.de", "categories": ["travel"], "verified": false}
 {"name": "norip.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "normalfrauen.de", "categories": ["nudity_pornography"], "verified": false}

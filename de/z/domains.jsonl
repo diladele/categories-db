@@ -45,6 +45,7 @@
 {"name": "zazzle.de", "categories": ["ecommerce_shopping"], "verified": true}
 {"name": "zbf-deutschland.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "zdf.de", "categories": ["news_media", "streaming_video_television"], "verified": false}
+{"name": "zdfheute.de", "categories": ["news_media"], "verified": true}
 {"name": "zdk.de", "categories": ["religious"], "verified": false}
 {"name": "zeche-zollverein.de", "categories": ["travel"], "verified": false}
 {"name": "zee.de", "categories": ["religious"], "verified": false}

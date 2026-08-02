@@ -625,7 +625,7 @@
     },
     {
         "path": "/app/g/domains.jsonl",
-        "checksum": "521F604897E1D9ED328498D89EE7C117"
+        "checksum": "91D4E133230DD7B6B1D722888D2CABF4"
     },
     {
         "path": "/app/h/domains.jsonl",
@@ -1601,7 +1601,7 @@
     },
     {
         "path": "/be/c/domains.jsonl",
-        "checksum": "95CF977C59566663D4978FF3610B6BDC"
+        "checksum": "DDF3244CC0B605C3F097169F6667F48A"
     },
     {
         "path": "/be/d/domains.jsonl",
@@ -1621,7 +1621,7 @@
     },
     {
         "path": "/be/h/domains.jsonl",
-        "checksum": "D12677F3BDA28198331AE68E26DE5759"
+        "checksum": "9B0529408223168D6262C4B153992945"
     },
     {
         "path": "/be/i/domains.jsonl",
@@ -1653,7 +1653,7 @@
     },
     {
         "path": "/be/p/domains.jsonl",
-        "checksum": "C0E42EEF867180F91FDF78D1FB23EC18"
+        "checksum": "CE4844763F8407FA7143647CC66CF662"
     },
     {
         "path": "/be/q/domains.jsonl",
@@ -4009,7 +4009,7 @@
     },
     {
         "path": "/ch/l/domains.jsonl",
-        "checksum": "EFDF6488D251DAA0EEC8D224E80ECEC5"
+        "checksum": "D049FBE6839C2C0ED78C75E9C33C46D4"
     },
     {
         "path": "/ch/m/domains.jsonl",
@@ -4965,7 +4965,7 @@
     },
     {
         "path": "/com/1/domains.jsonl",
-        "checksum": "DD844E12D6C574493AD061B5959AF374"
+        "checksum": "BEA1779188BB0FED26F3D49E5466880A"
     },
     {
         "path": "/com/2/domains.jsonl",
@@ -5001,27 +5001,27 @@
     },
     {
         "path": "/com/a/domains.jsonl",
-        "checksum": "B48F075E28E42B806CCD0DF04AE1BBD6"
+        "checksum": "66D01C1BCFEA4C83D8A55415FB0C9773"
     },
     {
         "path": "/com/b/domains.jsonl",
-        "checksum": "02B84EEAAFAC5829B2929AFB163ACD1A"
+        "checksum": "C9FE71A33EA8ECCADBCD2021A940C627"
     },
     {
         "path": "/com/c/domains.jsonl",
-        "checksum": "8CF4C36E06BDAD3003438C0B148A29AD"
+        "checksum": "4FF75447D2F29602E72ACFB8916094FD"
     },
     {
         "path": "/com/d/domains.jsonl",
-        "checksum": "44D06A2E57EBF97D8BC609D5EC1F2146"
+        "checksum": "327B054B9633C15642EC7208CA38E24A"
     },
     {
         "path": "/com/e/domains.jsonl",
-        "checksum": "3352BC130DC6DB1621D9C4AD8E43F77B"
+        "checksum": "77C766BC06122D1036CC1E50EFD1BE7A"
     },
     {
         "path": "/com/f/domains.jsonl",
-        "checksum": "E65014DD0FEC0BD710EAA8D80B137C3D"
+        "checksum": "10A3D89B0BA76058119E568F3382216F"
     },
     {
         "path": "/com/g/domains.jsonl",
@@ -5029,15 +5029,15 @@
     },
     {
         "path": "/com/h/domains.jsonl",
-        "checksum": "D4049ED8EB0E07A7B29265356D4FC7E1"
+        "checksum": "67DBEA31D71AD689AB28256DE3B1B65A"
     },
     {
         "path": "/com/i/domains.jsonl",
-        "checksum": "04DFFA0E6940633847F4C8D86C583A19"
+        "checksum": "601E25261AB3DCE3B59F8739F24FA0CC"
     },
     {
         "path": "/com/j/domains.jsonl",
-        "checksum": "A0AEF84DF14364270D0C1A5A755AA190"
+        "checksum": "CAA2A018E84194E78F90362B202AC250"
     },
     {
         "path": "/com/k/domains.jsonl",
@@ -5045,15 +5045,15 @@
     },
     {
         "path": "/com/l/domains.jsonl",
-        "checksum": "BEF1D03D529CB56A4ABBCA4E6FB8A2DE"
+        "checksum": "A7968E48FB000A0151CE13A7FD264A3C"
     },
     {
         "path": "/com/m/domains.jsonl",
-        "checksum": "F0DD36FBC5E0DCE8AE08F74832C99836"
+        "checksum": "5283FEFD1CBAE47C3EF1AC0A774AD6D5"
     },
     {
         "path": "/com/n/domains.jsonl",
-        "checksum": "4251A1BEA4C657D55CB44FF58BE90C53"
+        "checksum": "FD571DDCE83F1A5099FB43A23C78E14E"
     },
     {
         "path": "/com/o/domains.jsonl",
@@ -5061,27 +5061,27 @@
     },
     {
         "path": "/com/p/domains.jsonl",
-        "checksum": "E7A5264E03A137EE25452AD1C2CB2D5D"
+        "checksum": "49B4963B8D31A6F2D475A4C69201D7FC"
     },
     {
         "path": "/com/q/domains.jsonl",
-        "checksum": "7B33E286446AA255FD0B067DB0EF39D3"
+        "checksum": "4B0D8F6C8EF7DF19BB33BB8D937367EF"
     },
     {
         "path": "/com/r/domains.jsonl",
-        "checksum": "7FFF2036A7D61BC74004FF89EEC0EFE6"
+        "checksum": "C6A246DDE111F7CE45D52DFB14BFCF08"
     },
     {
         "path": "/com/s/domains.jsonl",
-        "checksum": "0E8566F7D42F249033B70C0077A9B205"
+        "checksum": "BDD907EF906E27977166F5C018940EC8"
     },
     {
         "path": "/com/t/domains.jsonl",
-        "checksum": "058744C3D3EAC7DC0A3854E1D03CED68"
+        "checksum": "D80E41C4D12E11D39D30A847CE2D8F54"
     },
     {
         "path": "/com/u/domains.jsonl",
-        "checksum": "B3FF8E0B83716BE40AD42BA2FB7A9BC1"
+        "checksum": "1CB7097ECF377EE7896E51691367D49D"
     },
     {
         "path": "/com/v/domains.jsonl",
@@ -5089,7 +5089,7 @@
     },
     {
         "path": "/com/w/domains.jsonl",
-        "checksum": "CD835AD2B38F3129318EB85E161BE8B2"
+        "checksum": "66E462E904CAECFC21FF41120EE7E872"
     },
     {
         "path": "/com/x/domains.jsonl",
@@ -5877,19 +5877,19 @@
     },
     {
         "path": "/de/a/domains.jsonl",
-        "checksum": "28025AC2AA24F0C95759255C3D23C14F"
+        "checksum": "BC21E07C18F261110B23CD16BE4E1E95"
     },
     {
         "path": "/de/b/domains.jsonl",
-        "checksum": "2C106FA3CD82C057FF06F77635E31BC1"
+        "checksum": "11FA3C69DCC484BECF11253E5E2593C2"
     },
     {
         "path": "/de/c/domains.jsonl",
-        "checksum": "8ED0F9B347E79EAD16E7F5A92E6662D2"
+        "checksum": "0DE318828FA9F5EB3D61E5A7A6D9478A"
     },
     {
         "path": "/de/d/domains.jsonl",
-        "checksum": "0471C65E051FD9B147F03C4B0B1A20B8"
+        "checksum": "B5BF60D47F0DD15CBA80CF977AE930C4"
     },
     {
         "path": "/de/e/domains.jsonl",
@@ -5897,7 +5897,7 @@
     },
     {
         "path": "/de/f/domains.jsonl",
-        "checksum": "78A87860773BE872939F3416FDCD459D"
+        "checksum": "CE754A3A8DDCFCE20ABC78EA8E9EF9D0"
     },
     {
         "path": "/de/g/domains.jsonl",
@@ -5905,7 +5905,7 @@
     },
     {
         "path": "/de/h/domains.jsonl",
-        "checksum": "06ABF1AA0AFA146723AE195A3E87E98D"
+        "checksum": "AFA7622F31374032339A4ECC83104F74"
     },
     {
         "path": "/de/i/domains.jsonl",
@@ -5921,23 +5921,23 @@
     },
     {
         "path": "/de/l/domains.jsonl",
-        "checksum": "7675B4A034F24889AB311066297C710F"
+        "checksum": "534E073E1115CEBD6EE2AF5BB477B99D"
     },
     {
         "path": "/de/m/domains.jsonl",
-        "checksum": "FB3EEB5AA5585B5A4F7F507497835605"
+        "checksum": "F53CBDAD62B0581B47A2976185801B68"
     },
     {
         "path": "/de/n/domains.jsonl",
-        "checksum": "3DBDAE9FA295F84066006A9BCA9D5450"
+        "checksum": "241531B9928931EC31C373CD85B1E22E"
     },
     {
         "path": "/de/o/domains.jsonl",
-        "checksum": "1AE2877167D2197BC26F81669D5A9C54"
+        "checksum": "DE29351511AC5391D3A3B91A72C5AA13"
     },
     {
         "path": "/de/p/domains.jsonl",
-        "checksum": "2A9671205D6E7D710D726DB1CE437469"
+        "checksum": "982BAE7B0E15BB275322D3CE92B88557"
     },
     {
         "path": "/de/q/domains.jsonl",
@@ -5957,11 +5957,11 @@
     },
     {
         "path": "/de/u/domains.jsonl",
-        "checksum": "00DFDA1BD3FE9B0C6DF102F4DAC2F8AE"
+        "checksum": "441601C1763215703E4DD7C224B6D440"
     },
     {
         "path": "/de/v/domains.jsonl",
-        "checksum": "D26B4A818C0A5AD3A22A8A8C40A57ED2"
+        "checksum": "DB174CAFCB619F0F34A93E07F6DD268C"
     },
     {
         "path": "/de/w/domains.jsonl",
@@ -5977,7 +5977,7 @@
     },
     {
         "path": "/de/z/domains.jsonl",
-        "checksum": "3F8475E1B62A682DC35BFC1DFE45C4B3"
+        "checksum": "0916D8F6577AC5B5AF3FB99EBA6F1BAB"
     },
     {
         "path": "/deals/w/domains.jsonl",
@@ -6609,7 +6609,7 @@
     },
     {
         "path": "/edu/l/domains.jsonl",
-        "checksum": "255D6B006E7063D599B0F21BE4F27718"
+        "checksum": "441CD418A18F2F649E292F09933E8B1B"
     },
     {
         "path": "/edu/m/domains.jsonl",
@@ -7561,7 +7561,7 @@
     },
     {
         "path": "/fr/f/domains.jsonl",
-        "checksum": "A088BC0D67BDA5D5A3787746CCAB1D57"
+        "checksum": "284EB0E3B3F7EB948A0B919CA0C005B3"
     },
     {
         "path": "/fr/g/domains.jsonl",
@@ -10157,7 +10157,7 @@
     },
     {
         "path": "/im/n/domains.jsonl",
-        "checksum": "33E7313B7F2200CE7B33257C37B40F08"
+        "checksum": "EFD56C53EF47F5D9B7D5A5CD2389BC1D"
     },
     {
         "path": "/im/p/domains.jsonl",
@@ -10377,7 +10377,7 @@
     },
     {
         "path": "/info/b/domains.jsonl",
-        "checksum": "500D952F1011B57F19D9F0ABCAE90DFB"
+        "checksum": "ECDB474B6DDD61E0B053DCE2F21F6D19"
     },
     {
         "path": "/info/c/domains.jsonl",
@@ -10537,7 +10537,7 @@
     },
     {
         "path": "/io/2/domains.jsonl",
-        "checksum": "02E0D9F1D253732A56C7248F95E647BC"
+        "checksum": "2DFD2AED282FF9746212C10283AE1B87"
     },
     {
         "path": "/io/4/domains.jsonl",
@@ -10645,7 +10645,7 @@
     },
     {
         "path": "/io/v/domains.jsonl",
-        "checksum": "4D171B0BEA196AAAEB1A27E6306070C1"
+        "checksum": "41A95705ED9A7A5EBCAB59627C660FDB"
     },
     {
         "path": "/io/w/domains.jsonl",
@@ -10861,7 +10861,7 @@
     },
     {
         "path": "/it/c/domains.jsonl",
-        "checksum": "25AA8CDAC45383739EC4DDA68D843938"
+        "checksum": "DB8C52B38E680515EF21C2B9A5580BC1"
     },
     {
         "path": "/it/d/domains.jsonl",
@@ -10877,7 +10877,7 @@
     },
     {
         "path": "/it/g/domains.jsonl",
-        "checksum": "97581083E47FD49A2FC8B58DC4D35946"
+        "checksum": "E82AA0BE47D3E7F3468937117179C68D"
     },
     {
         "path": "/it/h/domains.jsonl",
@@ -11141,7 +11141,7 @@
     },
     {
         "path": "/jp/g/domains.jsonl",
-        "checksum": "B448F63CE7F41C24F08A15A9B7793A96"
+        "checksum": "A01F716856491ED5A3669735014D1EE0"
     },
     {
         "path": "/jp/h/domains.jsonl",
@@ -14421,7 +14421,7 @@
     },
     {
         "path": "/mv/h/domains.jsonl",
-        "checksum": "F24DB148BBA31724252F11755CF3ED69"
+        "checksum": "41D1CC4CAA1E20968F1A044447C1C1E0"
     },
     {
         "path": "/mv/i/domains.jsonl",
@@ -15053,7 +15053,7 @@
     },
     {
         "path": "/net/a/domains.jsonl",
-        "checksum": "E003DD87EE76248AD319F85CDE0DBFBF"
+        "checksum": "8EBAF818A1CA3C7B644E37D0A22DAD73"
     },
     {
         "path": "/net/b/domains.jsonl",
@@ -15081,7 +15081,7 @@
     },
     {
         "path": "/net/h/domains.jsonl",
-        "checksum": "654EA14134A2D518441A1EA2E4F972C2"
+        "checksum": "7D6BA0EE763FAB625665E9F3E3E8BFCD"
     },
     {
         "path": "/net/i/domains.jsonl",
@@ -15125,7 +15125,7 @@
     },
     {
         "path": "/net/s/domains.jsonl",
-        "checksum": "F1121BAADC6F081BC35CA9A731E0C331"
+        "checksum": "BDDC6879A4A79AE0615F28D3EB83E229"
     },
     {
         "path": "/net/t/domains.jsonl",
@@ -17113,7 +17113,7 @@
     },
     {
         "path": "/pl/i/domains.jsonl",
-        "checksum": "5F13BFECCA38BD61FBD7F2BA3A445DB2"
+        "checksum": "4B7E8C6AB43E82C18FC318FCDD4E653E"
     },
     {
         "path": "/pl/j/domains.jsonl",
@@ -23661,7 +23661,7 @@
     },
     {
         "path": "/vn/v/domains.jsonl",
-        "checksum": "A4AE79DBBD64E7530CABEFB0F8A1A7A1"
+        "checksum": "7BD8C6A27F3A7C4466B17488C6716185"
     },
     {
         "path": "/vn/z/domains.jsonl",
@@ -24998,5 +24998,9 @@
     {
         "path": "/zw/z/domains.jsonl",
         "checksum": "8A43EF66F405620A6ECE51097780DDD3"
+    },
+    {
+        "path": "/bauhaus/c/domains.jsonl",
+        "checksum": "50C5242C3C07FFFDDB4F8A2275888149"
     }
 ]
