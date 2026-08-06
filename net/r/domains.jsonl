@@ -272,6 +272,7 @@
 {"name": "radiantmedia.net", "categories": ["advertising"], "verified": false}
 {"name": "radio-fmr.net", "categories": ["music_radio"], "verified": false}
 {"name": "radio-mart.net", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "radio.net", "categories": ["music_radio"], "verified": true}
 {"name": "radio13.net", "categories": ["music_radio"], "verified": false}
 {"name": "radio4life.net", "categories": ["religious"], "verified": false}
 {"name": "radio74.net", "categories": ["religious"], "verified": false}

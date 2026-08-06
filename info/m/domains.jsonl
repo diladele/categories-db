@@ -953,6 +953,7 @@
 {"name": "medipraxis.info", "categories": ["health_medicine_fitness"], "verified": false}
 {"name": "meditazione.info", "categories": ["religious"], "verified": false}
 {"name": "medlero.info", "categories": ["advertising"], "verified": false}
+{"name": "medpages.info", "categories": ["health_medicine_fitness"], "verified": true}
 {"name": "medproxy.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "medwaytowns.info", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "meeboproxy.info", "categories": ["proxy_anonymizer"], "verified": false}

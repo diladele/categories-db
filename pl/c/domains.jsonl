@@ -41,6 +41,8 @@
 {"name": "cdn-analytics.pl", "categories": ["user_tracking"], "verified": false}
 {"name": "celeb.com.pl", "categories": ["nudity_pornography"], "verified": false}
 {"name": "celeb.pl", "categories": ["nudity_pornography"], "verified": false}
+{"name": "ceneo.pl", "categories": ["classifieds_auctions", "ecommerce_shopping"], "verified": true}
+{"name": "ceneostatic.pl", "categories": ["ecommerce_shopping"], "verified": true}
 {"name": "cenowarka.pl", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "centergame.pl", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "centrum24.pl", "categories": ["banking_insurance_finance"], "verified": false}

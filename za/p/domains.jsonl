@@ -136,6 +136,7 @@
 {"name": "privateproperty.co.za", "categories": ["classifieds_auctions"], "verified": false}
 {"name": "prodive.co.za", "categories": ["travel"], "verified": false}
 {"name": "profit.co.za", "categories": ["gambling"], "verified": false}
+{"name": "profmed.co.za", "categories": ["banking_insurance_finance", "health_medicine_fitness"], "verified": true}
 {"name": "prorange.co.za", "categories": ["sports"], "verified": false}
 {"name": "prospectcottage.co.za", "categories": ["travel"], "verified": false}
 {"name": "protea-emmaus.org.za", "categories": ["religious"], "verified": false}

@@ -3,5 +3,6 @@
 {"name": "californiadesert.gov", "categories": ["travel"], "verified": false}
 {"name": "cancer.gov", "categories": ["health_medicine_fitness"], "verified": false}
 {"name": "cdc.gov", "categories": ["government", "health_medicine_fitness"], "verified": false}
+{"name": "cisa.gov", "categories": ["government", "software_technology_hardware"], "verified": true}
 {"name": "mtrics.cdc.gov", "categories": ["user_tracking"], "verified": false}
 {"name": "parks.ca.gov", "categories": ["travel"], "verified": false}
