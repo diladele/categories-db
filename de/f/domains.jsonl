@@ -1806,6 +1806,7 @@
 {"name": "fn.de", "categories": ["news_media"], "verified": true}
 {"name": "fnh24.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "focus.de", "categories": ["news_media"], "verified": false}
+{"name": "focusbusiness.de", "categories": ["news_media"], "verified": true}
 {"name": "focussed.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "foerderkreis-freizeiten.de", "categories": ["religious"], "verified": false}
 {"name": "foerderverein-weltkloster.de", "categories": ["religious"], "verified": false}

@@ -870,6 +870,7 @@
 {"name": "daugroroomauha.net", "categories": ["advertising"], "verified": false}
 {"name": "daugustine.net", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "daum.net", "categories": ["news_media", "search_engines", "webmail"], "verified": true}
+{"name": "daumcdn.net", "categories": ["news_media"], "verified": true}
 {"name": "daumporno.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "daunoopsap.net", "categories": ["advertising"], "verified": false}
 {"name": "dauphouloo.net", "categories": ["advertising"], "verified": false}
@@ -2585,6 +2586,7 @@
 {"name": "dotarchitect.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "doteen.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "dothaish.net", "categories": ["advertising"], "verified": false}
+{"name": "dotmetrics.net", "categories": ["user_tracking"], "verified": true}
 {"name": "dotnxdomain.net", "categories": ["advertising"], "verified": false}
 {"name": "dotporn.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "dottodatacenter.net", "categories": ["advertising"], "verified": false}
