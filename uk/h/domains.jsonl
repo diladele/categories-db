@@ -2681,6 +2681,7 @@
 {"name": "hrcr.co.uk", "categories": ["sports"], "verified": false}
 {"name": "hrextranet.co.uk", "categories": ["jobs_employment_career"], "verified": false}
 {"name": "hrfc.co.uk", "categories": ["sports"], "verified": false}
+{"name": "hrmagazine.co.uk", "categories": ["business_services_industry", "jobs_employment_career", "news_media"], "verified": true}
 {"name": "hrpc.org.uk", "categories": ["religious"], "verified": false}
 {"name": "hrr.co.uk", "categories": ["sports"], "verified": false}
 {"name": "hrr.org.uk", "categories": ["sports"], "verified": false}

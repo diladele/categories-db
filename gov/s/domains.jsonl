@@ -1,2 +1,4 @@
 {"name": "ssa.gov", "categories": ["government"], "verified": false}
+{"name": "state.gov", "categories": ["government"], "verified": true}
+{"name": "studentaid.gov", "categories": ["education_science_research", "government"], "verified": true}
 {"name": "travel.state.gov", "categories": ["travel"], "verified": false}

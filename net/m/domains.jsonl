@@ -1948,6 +1948,7 @@
 {"name": "media.net", "categories": ["advertising"], "verified": false}
 {"name": "mediaassociates.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "mediabook.net", "categories": ["religious"], "verified": false}
+{"name": "mediacongo.net", "categories": ["news_media"], "verified": true}
 {"name": "mediaessence.net", "categories": ["advertising"], "verified": false}
 {"name": "medialation.net", "categories": ["advertising"], "verified": false}
 {"name": "mediamadeeasy.net", "categories": ["ecommerce_shopping"], "verified": false}

@@ -851,6 +851,7 @@
 {"name": "wlt-alice.de", "categories": ["advertising", "user_tracking"], "verified": false}
 {"name": "wlt-jupiter.de", "categories": ["advertising", "user_tracking"], "verified": false}
 {"name": "wlv.de", "categories": ["business_services_industry"], "verified": true}
+{"name": "wlw.de", "categories": ["business_services_industry", "ecommerce_shopping"], "verified": true}
 {"name": "wm-2006-leipzig.de", "categories": ["sports"], "verified": false}
 {"name": "wm-cams.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "wm-fussballer.de", "categories": ["nudity_pornography"], "verified": false}
