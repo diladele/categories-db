@@ -34,6 +34,7 @@
 {"name": "aha.io", "categories": ["software_technology_hardware"], "verified": false}
 {"name": "aidata.io", "categories": ["advertising", "user_tracking"], "verified": false}
 {"name": "airbrake.io", "categories": ["user_tracking"], "verified": false}
+{"name": "aircdn.io", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "akstat.io", "categories": ["user_tracking"], "verified": false}
 {"name": "algolia.io", "categories": ["search_engines"], "verified": false}
 {"name": "allgames.io", "categories": ["games"], "verified": false}
