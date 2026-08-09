@@ -1149,6 +1149,7 @@
 {"name": "labufadora.com", "categories": ["travel"], "verified": false}
 {"name": "labuissoniere.com", "categories": ["travel"], "verified": false}
 {"name": "laburra.com", "categories": ["entertainment_humor_hobby"], "verified": false}
+{"name": "labvanced.com", "categories": ["education_science_research", "software_technology_hardware"], "verified": true}
 {"name": "labwarehousepicturesque.com", "categories": ["advertising"], "verified": false}
 {"name": "labwcupacoqc.com", "categories": ["advertising"], "verified": false}
 {"name": "labwear.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -5694,6 +5695,7 @@
 {"name": "larkspurandhawk.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "larkstreet.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "larkstreetmusic.com", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "larksuite.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "larksuitecdn.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "larktours.com", "categories": ["travel"], "verified": false}
 {"name": "larkuniform.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -6506,6 +6508,7 @@
 {"name": "lataheagle.com", "categories": ["news_media"], "verified": false}
 {"name": "lataiga.com", "categories": ["travel"], "verified": false}
 {"name": "latam.com", "categories": ["travel"], "verified": false}
+{"name": "latamairlines.com", "categories": ["transportation", "travel"], "verified": true}
 {"name": "latambooks.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "latanadellalepre.com", "categories": ["travel"], "verified": false}
 {"name": "latanadicagliostro.com", "categories": ["travel"], "verified": false}
