@@ -70,6 +70,7 @@
 {"name": "radha.de", "categories": ["religious"], "verified": false}
 {"name": "radio-anthroposophie.de", "categories": ["religious"], "verified": false}
 {"name": "radio-horeb.de", "categories": ["religious"], "verified": false}
+{"name": "radio.de", "categories": ["music_radio"], "verified": true}
 {"name": "radiohoreb.de", "categories": ["religious"], "verified": false}
 {"name": "radiorur.de", "categories": ["music_radio", "news_media"], "verified": true}
 {"name": "radiosiegen.de", "categories": ["music_radio"], "verified": false}
@@ -328,6 +329,7 @@
 {"name": "reformiert.de", "categories": ["religious"], "verified": false}
 {"name": "reformkatholiken.de", "categories": ["religious"], "verified": false}
 {"name": "reformstreit.de", "categories": ["nudity_pornography"], "verified": false}
+{"name": "refsoft.de", "categories": ["software_technology_hardware", "sports"], "verified": true}
 {"name": "refugiumstammtisch.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "regenbogen-nak.de", "categories": ["religious"], "verified": false}
 {"name": "regenbogenband.de", "categories": ["religious"], "verified": false}
