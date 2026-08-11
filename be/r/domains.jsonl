@@ -7,6 +7,7 @@
 {"name": "poxi.raya.be", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "radio1.be", "categories": ["music_radio", "news_media"], "verified": false}
 {"name": "radio2.be", "categories": ["music_radio"], "verified": false}
+{"name": "radiocontact.be", "categories": ["music_radio"], "verified": true}
 {"name": "radiofarda.be", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "radioplus.be", "categories": ["music_radio"], "verified": false}
 {"name": "radioviainternet.be", "categories": ["music_radio"], "verified": false}

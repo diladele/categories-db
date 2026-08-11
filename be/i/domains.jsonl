@@ -105,6 +105,7 @@
 {"name": "iranproxy.be", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "irceline.be", "categories": ["government"], "verified": false}
 {"name": "irepairshop.be", "categories": ["business_services_industry"], "verified": false}
+{"name": "irisnet.be", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "irongruv.be", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "is-sexy.be", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "isexdating.be", "categories": ["nudity_pornography"], "verified": false}
