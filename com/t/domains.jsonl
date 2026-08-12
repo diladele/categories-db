@@ -59856,6 +59856,7 @@
 {"name": "trustmymechanic.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "trustphiladelphiacompelling.com", "categories": ["advertising"], "verified": false}
 {"name": "trustpilot.com", "categories": ["business_services_industry"], "verified": false}
+{"name": "trustprofile.com", "categories": ["business_services_industry", "ecommerce_shopping"], "verified": true}
 {"name": "trustprox.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "trusttouch.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "trustus-trading-company.com", "categories": ["travel"], "verified": false}
@@ -59870,6 +59871,7 @@
 {"name": "trustyable.com", "categories": ["advertising"], "verified": false}
 {"name": "trustyfine.com", "categories": ["advertising"], "verified": false}
 {"name": "trustyfruit.com", "categories": ["advertising"], "verified": false}
+{"name": "trustyou.com", "categories": ["business_services_industry", "travel"], "verified": true}
 {"name": "trustytractor.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "trutchmanor.com", "categories": ["travel"], "verified": false}
 {"name": "truth-vs-hogwash.com", "categories": ["religious"], "verified": false}
