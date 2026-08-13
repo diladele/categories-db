@@ -6370,6 +6370,7 @@
 {"name": "sparkasse-bremen.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "sparkasse-hannover.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "sparkasse-luedenscheid.de", "categories": ["banking_insurance_finance"], "verified": false}
+{"name": "sparkasse-minden-luebbecke.de", "categories": ["banking_insurance_finance"], "verified": true}
 {"name": "sparkasse-nuernberg.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "sparkasse-regensburg.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "sparkasse.de", "categories": ["banking_insurance_finance"], "verified": false}
