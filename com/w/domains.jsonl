@@ -19785,6 +19785,7 @@
 {"name": "windfarm-records.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "windfields.com", "categories": ["sports"], "verified": false}
 {"name": "windfind.com", "categories": ["travel"], "verified": false}
+{"name": "windfinder.com", "categories": ["sports", "travel"], "verified": true}
 {"name": "windflowerembroidery.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "windflowerinn.com", "categories": ["travel"], "verified": false}
 {"name": "windforest-windsox.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -29104,6 +29105,7 @@
 {"name": "wyndhamfloridahotels.com", "categories": ["travel"], "verified": false}
 {"name": "wyndhamgalvestonhotels.com", "categories": ["travel"], "verified": false}
 {"name": "wyndhamgardenmemphis.com", "categories": ["travel"], "verified": false}
+{"name": "wyndhamhotels.com", "categories": ["travel"], "verified": true}
 {"name": "wyndhammiamihotels.com", "categories": ["travel"], "verified": false}
 {"name": "wyndhammtlaurel.com", "categories": ["travel"], "verified": false}
 {"name": "wyndhamneedleworks.com", "categories": ["ecommerce_shopping"], "verified": false}

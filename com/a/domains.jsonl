@@ -55748,8 +55748,10 @@
 {"name": "approxymate.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "apprupt.com", "categories": ["advertising"], "verified": false}
 {"name": "apps-links.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "apps.ladesk.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "apps1cdn.com", "categories": ["advertising"], "verified": false}
 {"name": "appsflyer.com", "categories": ["user_tracking"], "verified": false}
+{"name": "appsflyersdk.com", "categories": ["software_technology_hardware", "user_tracking"], "verified": true}
 {"name": "appshui.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "appslime.com", "categories": ["advertising"], "verified": false}
 {"name": "appspace.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
@@ -73012,6 +73014,7 @@
 {"name": "autotrimsupply.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "autotuning.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "autounblocker.com", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "autouncle.com", "categories": ["classifieds_auctions", "transportation"], "verified": true}
 {"name": "autoupholsterykits.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "autour-de-sarlat.com", "categories": ["travel"], "verified": false}
 {"name": "autour-du-sexe.com", "categories": ["nudity_pornography"], "verified": false}

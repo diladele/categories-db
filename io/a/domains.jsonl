@@ -65,6 +65,7 @@
 {"name": "audience.io", "categories": ["advertising"], "verified": false}
 {"name": "aufp.io", "categories": ["user_tracking"], "verified": false}
 {"name": "autopay.io", "categories": ["business_services_industry"], "verified": true}
+{"name": "autorefresh.io", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "avada.io", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "axept.io", "categories": ["user_tracking"], "verified": false}
 {"name": "azurecontainerapps.io", "categories": ["generic_non_categorized"], "verified": true}
