@@ -1720,6 +1720,7 @@
 {"name": "ismypersonalreco.org", "categories": ["advertising"], "verified": false}
 {"name": "isna.org", "categories": ["adult_themes_sexuality"], "verified": false}
 {"name": "isnahigh.org", "categories": ["religious"], "verified": false}
+{"name": "iso.org", "categories": ["business_services_industry", "education_science_research"], "verified": true}
 {"name": "iso20022.org", "categories": ["software_technology_hardware"], "verified": false}
 {"name": "isocs.org", "categories": ["religious"], "verified": false}
 {"name": "isoh.org", "categories": ["sports"], "verified": false}
