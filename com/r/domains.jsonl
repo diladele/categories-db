@@ -2294,6 +2294,7 @@
 {"name": "railstoalesbrewfest.com", "categories": ["alcohol_tobacco"], "verified": false}
 {"name": "railtownwindows.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "railtravelcenter.com", "categories": ["travel"], "verified": false}
+{"name": "railway.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "railwaybook.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "railwayboringnasal.com", "categories": ["advertising"], "verified": false}
 {"name": "railwaycottagecononley.com", "categories": ["travel"], "verified": false}
@@ -16398,6 +16399,7 @@
 {"name": "rewardisement.com", "categories": ["advertising"], "verified": false}
 {"name": "rewardproxy.com", "categories": ["nudity_pornography", "proxy_anonymizer"], "verified": false}
 {"name": "rewardsaffiliates.com", "categories": ["advertising"], "verified": false}
+{"name": "rewardsvc.com", "categories": ["expired_parked"], "verified": true}
 {"name": "rewardthem.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "rewardtv.com", "categories": ["user_tracking"], "verified": false}
 {"name": "rewardunderneathreport.com", "categories": ["advertising"], "verified": false}
