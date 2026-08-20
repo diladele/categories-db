@@ -63,9 +63,11 @@
 {"name": "aikinara.jp", "categories": ["sports"], "verified": false}
 {"name": "ainetown.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "airbnb.jp", "categories": ["travel"], "verified": false}
+{"name": "airdo.jp", "categories": ["transportation", "travel"], "verified": true}
 {"name": "airnet.ne.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "airport.co.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "aishite.jp", "categories": ["nudity_pornography"], "verified": false}
+{"name": "aist.go.jp", "categories": ["education_science_research", "government"], "verified": true}
 {"name": "aladdinn.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "alc.co.jp", "categories": ["education_science_research"], "verified": false}
 {"name": "alfcasino.jp", "categories": ["gambling"], "verified": false}
@@ -110,6 +112,8 @@
 {"name": "artemisweb.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "arzon.jp", "categories": ["nudity_pornography"], "verified": true}
 {"name": "asahi-archery.co.jp", "categories": ["ecommerce_shopping", "weapons"], "verified": false}
+{"name": "asahi.co.jp", "categories": ["news_media"], "verified": true}
+{"name": "asahicom.jp", "categories": ["news_media"], "verified": true}
 {"name": "asahihomes.co.jp", "categories": ["travel"], "verified": false}
 {"name": "asiacenter.or.jp", "categories": ["travel"], "verified": false}
 {"name": "asiangirls.jp", "categories": ["nudity_pornography"], "verified": false}
@@ -118,6 +122,7 @@
 {"name": "ast-studio.gr.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "ataka.ne.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "atami-hihoukan.jp", "categories": ["nudity_pornography"], "verified": false}
+{"name": "athome.co.jp", "categories": ["real_estate_home_interior"], "verified": true}
 {"name": "atsugi-angelic.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "au-ra.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "auto-wave.co.jp", "categories": ["transportation"], "verified": true}
