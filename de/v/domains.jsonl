@@ -104,6 +104,7 @@
 {"name": "vbn.de", "categories": ["travel"], "verified": true}
 {"name": "vbpf.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "vcc.de", "categories": ["streaming_video_television"], "verified": false}
+{"name": "vci.de", "categories": ["business_services_industry"], "verified": true}
 {"name": "vcn-online.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "vdp.de", "categories": ["alcohol_tobacco"], "verified": false}
 {"name": "veda-seminarzentrum.de", "categories": ["religious"], "verified": false}
@@ -188,6 +189,9 @@
 {"name": "verfuehre-mich.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "verfuehrung-live.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "verfuehrunglive.de", "categories": ["nudity_pornography"], "verified": false}
+{"name": "vergabe-westfalen.de", "categories": ["business_services_industry", "government"], "verified": true}
+{"name": "vergabe24.de", "categories": ["business_services_industry", "government"], "verified": true}
+{"name": "vergabekommunal.de", "categories": ["business_services_industry", "government"], "verified": true}
 {"name": "vergesslich.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "vergnuegen.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "verhandlungspreis.de", "categories": ["nudity_pornography"], "verified": false}
@@ -546,6 +550,7 @@
 {"name": "volksbibel.de", "categories": ["religious"], "verified": false}
 {"name": "volksmission-donzdorf.de", "categories": ["religious"], "verified": false}
 {"name": "volksverein.de", "categories": ["religious"], "verified": false}
+{"name": "volkswagen-nutzfahrzeuge.de", "categories": ["business_services_industry", "transportation"], "verified": true}
 {"name": "volkswagen.de", "categories": ["transportation"], "verified": false}
 {"name": "volkswagenbank.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "voll-spritzen.de", "categories": ["nudity_pornography"], "verified": false}
@@ -719,6 +724,7 @@
 {"name": "voyeurwebcams.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "voyeurx.de", "categories": ["nudity_pornography"], "verified": false}
 {"name": "vpem.de", "categories": ["religious"], "verified": false}
+{"name": "vr-payment.de", "categories": ["banking_insurance_finance", "business_services_industry"], "verified": true}
 {"name": "vr-vilshofen.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "vr.de", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "vrindavan.de", "categories": ["religious"], "verified": false}

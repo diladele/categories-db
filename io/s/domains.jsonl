@@ -21,6 +21,7 @@
 {"name": "sgc.io", "categories": ["expired_parked"], "verified": true}
 {"name": "shadowbit.io", "categories": ["gambling"], "verified": false}
 {"name": "sharedrop.io", "categories": ["file_storage", "p2p_file_sharing"], "verified": true}
+{"name": "sharefile.io", "categories": ["file_storage"], "verified": true}
 {"name": "sharkcasino.io", "categories": ["gambling"], "verified": false}
 {"name": "shellshock.io", "categories": ["games"], "verified": false}
 {"name": "shields.io", "categories": ["software_technology_hardware"], "verified": true}
@@ -28,6 +29,7 @@
 {"name": "short.io", "categories": ["generic_non_categorized"], "verified": true}
 {"name": "simpleanalytics.io", "categories": ["user_tracking"], "verified": false}
 {"name": "sirdata.io", "categories": ["user_tracking"], "verified": false}
+{"name": "sitecorecloud.io", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "siteimproveanalytics.io", "categories": ["user_tracking"], "verified": false}
 {"name": "sjpf.io", "categories": ["user_tracking"], "verified": false}
 {"name": "skeepers.io", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}

@@ -645,6 +645,7 @@
 {"name": "ville-cherbourg.fr", "categories": ["travel"], "verified": false}
 {"name": "ville-dijon.fr", "categories": ["travel"], "verified": false}
 {"name": "ville-soorts-hossegor.fr", "categories": ["travel"], "verified": false}
+{"name": "ville-troyes.fr", "categories": ["government"], "verified": true}
 {"name": "ville-vittel.fr", "categories": ["travel"], "verified": false}
 {"name": "villefromoy.fr", "categories": ["travel"], "verified": false}
 {"name": "vimeo.fr", "categories": ["streaming_video_television"], "verified": false}

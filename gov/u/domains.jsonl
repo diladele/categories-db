@@ -1,2 +1,4 @@
 {"name": "deadiversion.usdoj.gov", "categories": ["drugs"], "verified": false}
 {"name": "navcen.uscg.gov", "categories": ["travel"], "verified": false}
+{"name": "usitc.gov", "categories": ["government"], "verified": true}
+{"name": "uspto.gov", "categories": ["business_services_industry", "education_science_research", "government"], "verified": true}

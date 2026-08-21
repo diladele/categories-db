@@ -5,6 +5,7 @@
 {"name": "carolinasandhills.fws.gov", "categories": ["travel"], "verified": false}
 {"name": "chinco.fws.gov", "categories": ["travel"], "verified": false}
 {"name": "fcc.gov", "categories": ["news_media"], "verified": false}
+{"name": "fda.gov", "categories": ["government", "health_medicine_fitness"], "verified": true}
 {"name": "federalregister.gov", "categories": ["government", "news_media"], "verified": true}
 {"name": "federalreserve.gov", "categories": ["banking_insurance_finance", "news_media"], "verified": false}
 {"name": "fincen.gov", "categories": ["government"], "verified": false}

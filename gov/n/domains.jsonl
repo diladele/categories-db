@@ -4,6 +4,7 @@
 {"name": "jsc.nasa.gov", "categories": ["travel"], "verified": false}
 {"name": "msfc.nasa.gov", "categories": ["travel"], "verified": false}
 {"name": "ncparks.gov", "categories": ["travel"], "verified": false}
+{"name": "ne.gov", "categories": ["government"], "verified": true}
 {"name": "nebraska.gov", "categories": ["government"], "verified": true}
 {"name": "nih.gov", "categories": ["health_medicine_fitness"], "verified": false}
 {"name": "nj.gov", "categories": ["government"], "verified": true}

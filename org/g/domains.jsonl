@@ -1148,6 +1148,7 @@
 {"name": "getawaytours.org", "categories": ["travel"], "verified": false}
 {"name": "getbestpolojpob.org", "categories": ["advertising"], "verified": false}
 {"name": "getchurch.org", "categories": ["religious"], "verified": false}
+{"name": "getcomposer.org", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "getfoxyproxy.org", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "getfreeporn.org", "categories": ["nudity_pornography"], "verified": false}
 {"name": "getfreesex.org", "categories": ["nudity_pornography"], "verified": false}
@@ -1692,6 +1693,7 @@
 {"name": "globalprayerwarriors.org", "categories": ["religious"], "verified": false}
 {"name": "globalproxy.org", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "globalradiooutreach.org", "categories": ["religious"], "verified": false}
+{"name": "globalreporting.org", "categories": ["business_services_industry"], "verified": true}
 {"name": "globalretreatcentre.org", "categories": ["travel"], "verified": false}
 {"name": "globalservicecorps.org", "categories": ["travel"], "verified": false}
 {"name": "globalsexe.org", "categories": ["nudity_pornography"], "verified": false}
@@ -3364,6 +3366,7 @@
 {"name": "gryhazardoweonline.org", "categories": ["gambling"], "verified": false}
 {"name": "grykasyno.org", "categories": ["gambling"], "verified": false}
 {"name": "gs-church.org", "categories": ["religious"], "verified": false}
+{"name": "gs1.org", "categories": ["business_services_industry"], "verified": true}
 {"name": "gsacsports.org", "categories": ["sports"], "verified": false}
 {"name": "gsafe.org", "categories": ["adult_themes_sexuality"], "verified": false}
 {"name": "gsanetwork.org", "categories": ["adult_themes_sexuality"], "verified": false}
