@@ -49760,6 +49760,7 @@
 {"name": "shareadult.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "shareadultvideo.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "shareafrica.com", "categories": ["religious"], "verified": false}
+{"name": "shareaholic.com", "categories": ["advertising", "user_tracking"], "verified": true}
 {"name": "shareasale.com", "categories": ["user_tracking"], "verified": false}
 {"name": "shareazasource.com", "categories": ["p2p_file_sharing"], "verified": false}
 {"name": "sharebig.com", "categories": ["file_storage"], "verified": false}
@@ -63042,6 +63043,7 @@
 {"name": "skypanty.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "skype.com", "categories": ["messaging_chat"], "verified": false}
 {"name": "skypeassets.com", "categories": ["messaging_chat"], "verified": false}
+{"name": "skypeforbusiness.com", "categories": ["business_services_industry", "messaging_chat", "software_technology_hardware"], "verified": true}
 {"name": "skypehandsets.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "skypeproxy.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "skyperu.com", "categories": ["travel"], "verified": false}
@@ -95701,6 +95703,7 @@
 {"name": "sumtermilitary.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "sumtersoccerclub.com", "categories": ["sports"], "verified": false}
 {"name": "sumterspeedway.com", "categories": ["sports"], "verified": false}
+{"name": "sumup.com", "categories": ["banking_insurance_finance", "business_services_industry"], "verified": true}
 {"name": "sumvideos.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "sumvztfze.com", "categories": ["advertising"], "verified": false}
 {"name": "sumwines.com", "categories": ["alcohol_tobacco"], "verified": false}
