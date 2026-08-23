@@ -7,10 +7,12 @@
 {"name": "yahoo.co.jp", "categories": ["news_media", "search_engines"], "verified": false}
 {"name": "yahuu.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "yamabuki.sakura.ne.jp", "categories": ["nudity_pornography"], "verified": false}
+{"name": "yamap.co.jp", "categories": ["sports", "travel"], "verified": true}
 {"name": "yasul.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "ygi.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "yimg.jp", "categories": ["news_media"], "verified": false}
 {"name": "yjtag.jp", "categories": ["user_tracking"], "verified": false}
+{"name": "ykkap.co.jp", "categories": ["business_services_industry", "real_estate_home_interior"], "verified": true}
 {"name": "yoasobi-ranking.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "yoasobi.co.jp", "categories": ["nudity_pornography"], "verified": false}
 {"name": "yoko-matsugane.sakura.ne.jp", "categories": ["nudity_pornography"], "verified": false}

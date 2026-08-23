@@ -7115,6 +7115,7 @@
 {"name": "shop.show-stars.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "shop69.net", "categories": ["nudity_pornography"], "verified": false}
 {"name": "shophard.net", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "shopifycdn.net", "categories": ["ecommerce_shopping", "file_storage"], "verified": true}
 {"name": "shopjubilee.net", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "shopluxury.net", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "shoponwheels.net", "categories": ["ecommerce_shopping"], "verified": false}

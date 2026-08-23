@@ -15768,6 +15768,7 @@
 {"name": "persevereindirect.com", "categories": ["advertising"], "verified": false}
 {"name": "perseverevoice.com", "categories": ["advertising"], "verified": false}
 {"name": "persevoyages.com", "categories": ["travel"], "verified": false}
+{"name": "pershing.com", "categories": ["banking_insurance_finance", "business_services_industry"], "verified": true}
 {"name": "pershingauditorium.com", "categories": ["sports"], "verified": false}
 {"name": "persian-kitti.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "persian-porno.com", "categories": ["nudity_pornography"], "verified": false}
@@ -59674,6 +59675,7 @@
 {"name": "pulsedistribution.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "pulsefm.com", "categories": ["religious"], "verified": false}
 {"name": "pulseinsights.com", "categories": ["user_tracking"], "verified": false}
+{"name": "pulselive.com", "categories": ["sports"], "verified": true}
 {"name": "pulselog.com", "categories": ["user_tracking"], "verified": false}
 {"name": "pulsemaps.com", "categories": ["user_tracking"], "verified": false}
 {"name": "pulsemgr.com", "categories": ["advertising"], "verified": false}

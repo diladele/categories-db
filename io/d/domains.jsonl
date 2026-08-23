@@ -21,6 +21,7 @@
 {"name": "districtm.io", "categories": ["advertising"], "verified": false}
 {"name": "dnsdelegation.io", "categories": ["user_tracking"], "verified": false}
 {"name": "dnssafety.io", "categories": ["expired_parked"], "verified": false}
+{"name": "docker.io", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "domdog.io", "categories": ["user_tracking"], "verified": false}
 {"name": "dowjones.io", "categories": ["business_services_industry", "news_media"], "verified": true}
 {"name": "draw.io", "categories": ["software_technology_hardware"], "verified": true}

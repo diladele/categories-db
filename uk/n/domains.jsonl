@@ -1465,6 +1465,7 @@
 {"name": "nouga.co.uk", "categories": ["travel"], "verified": false}
 {"name": "nouse.co.uk", "categories": ["news_media"], "verified": false}
 {"name": "nova-electronics.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "novatech.co.uk", "categories": ["business_services_industry", "ecommerce_shopping", "software_technology_hardware"], "verified": true}
 {"name": "novawoodentoys.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "novelconcepts.co.uk", "categories": ["games"], "verified": false}
 {"name": "novellohotel.co.uk", "categories": ["travel"], "verified": false}
