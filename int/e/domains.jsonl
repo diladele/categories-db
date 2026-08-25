@@ -1,6 +1,7 @@
 {"name": "eca.eu.int", "categories": ["government"], "verified": false}
 {"name": "ecb.int", "categories": ["banking_insurance_finance", "government"], "verified": false}
 {"name": "emcdda.eu.int", "categories": ["drugs"], "verified": false}
+{"name": "eumetsat.int", "categories": ["education_science_research", "government"], "verified": true}
 {"name": "euro-ombudsman.eu.int", "categories": ["government"], "verified": false}
 {"name": "eurocontrol.int", "categories": ["business_services_industry"], "verified": true}
 {"name": "europa.eu.int", "categories": ["government"], "verified": false}
