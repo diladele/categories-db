@@ -7282,6 +7282,7 @@
 {"name": "youtubehub.com", "categories": ["news_media", "nudity_pornography", "proxy_anonymizer", "streaming_video_television"], "verified": false}
 {"name": "youtubeinmp3.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "youtubeinmp4.com", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "youtubekids.com", "categories": ["entertainment_humor_hobby", "streaming_video_television"], "verified": true}
 {"name": "youtubeletsgo.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "youtubelike.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "youtubenew.com", "categories": ["nudity_pornography"], "verified": false}
