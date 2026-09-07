@@ -1395,6 +1395,7 @@
 {"name": "picsnvids.co.uk", "categories": ["nudity_pornography"], "verified": false}
 {"name": "picstop.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "picture-disc.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "picture-news.co.uk", "categories": ["education_science_research", "news_media"], "verified": true}
 {"name": "picturebusiness.co.uk", "categories": ["nudity_pornography"], "verified": false}
 {"name": "picturedraw.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "picturedrawportraits.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
@@ -2712,6 +2713,7 @@
 {"name": "pscltd.co.uk", "categories": ["travel"], "verified": false}
 {"name": "psd.co.uk", "categories": ["jobs_employment_career"], "verified": false}
 {"name": "psehcamra.org.uk", "categories": ["alcohol_tobacco"], "verified": false}
+{"name": "pshe-association.org.uk", "categories": ["education_science_research"], "verified": true}
 {"name": "psi-soft.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "psj-tkd.co.uk", "categories": ["sports"], "verified": false}
 {"name": "pskc.co.uk", "categories": ["sports"], "verified": false}

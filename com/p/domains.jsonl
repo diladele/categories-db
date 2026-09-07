@@ -6987,6 +6987,7 @@
 {"name": "parentis.com", "categories": ["travel"], "verified": false}
 {"name": "parentlargevia.com", "categories": ["advertising"], "verified": false}
 {"name": "parentpay.com", "categories": ["banking_insurance_finance"], "verified": true}
+{"name": "parentpaygroup.com", "categories": ["business_services_industry", "education_science_research"], "verified": true}
 {"name": "parentpensionvolunteer.com", "categories": ["advertising"], "verified": false}
 {"name": "parentpicture.com", "categories": ["user_tracking"], "verified": false}
 {"name": "parentproducts.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -34107,6 +34108,7 @@
 {"name": "popruexo.com", "categories": ["advertising"], "verified": false}
 {"name": "pops-porn.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "pops20.com", "categories": ["sports"], "verified": false}
+{"name": "popsa.com", "categories": ["ecommerce_shopping", "photo_sharing"], "verified": true}
 {"name": "popsads.com", "categories": ["advertising"], "verified": false}
 {"name": "popsample.com", "categories": ["user_tracking"], "verified": false}
 {"name": "popscandals.com", "categories": ["nudity_pornography"], "verified": false}
