@@ -335,6 +335,7 @@
 {"name": "yoxy.co.uk", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "ypc.co.uk", "categories": ["sports"], "verified": false}
 {"name": "ypi.co.uk", "categories": ["travel"], "verified": false}
+{"name": "ypo.co.uk", "categories": ["business_services_industry", "ecommerce_shopping", "education_science_research"], "verified": true}
 {"name": "yr-hendre.co.uk", "categories": ["travel"], "verified": false}
 {"name": "yrc.co.uk", "categories": ["sports", "travel"], "verified": false}
 {"name": "yrhenfelin.co.uk", "categories": ["travel"], "verified": false}
