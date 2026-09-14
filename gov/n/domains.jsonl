@@ -3,6 +3,7 @@
 {"name": "glacier-bay.gsfc.nasa.gov", "categories": ["travel"], "verified": false}
 {"name": "jsc.nasa.gov", "categories": ["travel"], "verified": false}
 {"name": "msfc.nasa.gov", "categories": ["travel"], "verified": false}
+{"name": "nasa.gov", "categories": ["education_science_research", "government"], "verified": true}
 {"name": "ncparks.gov", "categories": ["travel"], "verified": false}
 {"name": "ne.gov", "categories": ["government"], "verified": true}
 {"name": "nebraska.gov", "categories": ["government"], "verified": true}
