@@ -59870,6 +59870,7 @@
 {"name": "trust1bank.com", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "trustadvert.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "trustaffs.com", "categories": ["advertising"], "verified": false}
+{"name": "trustami.com", "categories": ["business_services_industry", "ecommerce_shopping"], "verified": true}
 {"name": "trustandgo.com", "categories": ["religious"], "verified": false}
 {"name": "trustandtravel.com", "categories": ["travel"], "verified": false}
 {"name": "trustappliance.com", "categories": ["ecommerce_shopping"], "verified": false}
