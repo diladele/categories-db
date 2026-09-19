@@ -36,6 +36,7 @@
 {"name": "cloudwp.io", "categories": ["user_tracking"], "verified": false}
 {"name": "cnn.io", "categories": ["news_media"], "verified": false}
 {"name": "cnnx.io", "categories": ["advertising"], "verified": false}
+{"name": "coda.io", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "codefund.io", "categories": ["advertising"], "verified": false}
 {"name": "codepen.io", "categories": ["software_technology_hardware"], "verified": false}
 {"name": "coinads.io", "categories": ["advertising"], "verified": false}

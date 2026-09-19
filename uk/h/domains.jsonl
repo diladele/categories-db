@@ -2231,6 +2231,7 @@
 {"name": "hopback.co.uk", "categories": ["alcohol_tobacco"], "verified": false}
 {"name": "hope-church.org.uk", "categories": ["religious"], "verified": false}
 {"name": "hope-e-candles.co.uk", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "hope-education.co.uk", "categories": ["ecommerce_shopping", "education_science_research"], "verified": true}
 {"name": "hope-farm-holiday-cottages.co.uk", "categories": ["travel"], "verified": false}
 {"name": "hope-wrexham-tkd.co.uk", "categories": ["sports"], "verified": false}
 {"name": "hopeandanchor.co.uk", "categories": ["travel"], "verified": false}
