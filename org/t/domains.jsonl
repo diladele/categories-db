@@ -3098,6 +3098,7 @@
 {"name": "tmba.org", "categories": ["banking_insurance_finance"], "verified": false}
 {"name": "tmbra.org", "categories": ["sports"], "verified": false}
 {"name": "tmc3.org", "categories": ["religious"], "verified": false}
+{"name": "tmdb.org", "categories": ["entertainment_humor_hobby", "streaming_video_television"], "verified": true}
 {"name": "tmf-fdn.org", "categories": ["religious"], "verified": false}
 {"name": "tmhouston.org", "categories": ["religious"], "verified": false}
 {"name": "tmni.org", "categories": ["travel"], "verified": false}

@@ -11305,6 +11305,7 @@
 {"name": "cars.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "cars4thais.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "cars4u.com", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "carsandbids.com", "categories": ["classifieds_auctions", "transportation"], "verified": true}
 {"name": "carsands.com", "categories": ["gambling"], "verified": false}
 {"name": "carsandsex.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "carsandstripes.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -52895,6 +52896,7 @@
 {"name": "cortedellerose.com", "categories": ["travel"], "verified": false}
 {"name": "cortedeprincipi.com", "categories": ["travel"], "verified": false}
 {"name": "cortedivalle.com", "categories": ["travel"], "verified": false}
+{"name": "corteiz.com", "categories": ["ecommerce_shopping", "fashion_beauty_cosmetics"], "verified": true}
 {"name": "cortemedicino.com", "categories": ["travel"], "verified": false}
 {"name": "cortesislandaccommodation.com", "categories": ["travel"], "verified": false}
 {"name": "cortesislandmotel.com", "categories": ["travel"], "verified": false}
