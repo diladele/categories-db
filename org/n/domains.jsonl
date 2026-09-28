@@ -477,6 +477,7 @@
 {"name": "nationalfreepress.org", "categories": ["news_media"], "verified": false}
 {"name": "nationalfusion.org", "categories": ["sports"], "verified": false}
 {"name": "nationalgames2004.org", "categories": ["sports"], "verified": false}
+{"name": "nationalgeographic.org", "categories": ["arts_society_culture", "education_science_research"], "verified": true}
 {"name": "nationalgypsytravellerfederation.org", "categories": ["travel"], "verified": false}
 {"name": "nationaljbq.org", "categories": ["religious"], "verified": false}
 {"name": "nationalministries.org", "categories": ["religious"], "verified": false}
