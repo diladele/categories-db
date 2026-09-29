@@ -103,6 +103,7 @@
 {"name": "vbl.de", "categories": ["banking_insurance_finance", "government"], "verified": true}
 {"name": "vbn.de", "categories": ["travel"], "verified": true}
 {"name": "vbpf.de", "categories": ["banking_insurance_finance"], "verified": false}
+{"name": "vbplus.de", "categories": ["banking_insurance_finance"], "verified": true}
 {"name": "vcc.de", "categories": ["streaming_video_television"], "verified": false}
 {"name": "vci.de", "categories": ["business_services_industry"], "verified": true}
 {"name": "vcn-online.de", "categories": ["nudity_pornography"], "verified": false}
