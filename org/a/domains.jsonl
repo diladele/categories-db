@@ -543,6 +543,7 @@
 {"name": "ad-media.org", "categories": ["advertising"], "verified": false}
 {"name": "ad2000.org", "categories": ["religious"], "verified": false}
 {"name": "adachristian.org", "categories": ["religious"], "verified": false}
+{"name": "adacomputerscience.org", "categories": ["education_science_research"], "verified": true}
 {"name": "adafirstpres.org", "categories": ["religious"], "verified": false}
 {"name": "adamsblvd.org", "categories": ["religious"], "verified": false}
 {"name": "adamscenter.org", "categories": ["religious"], "verified": false}
