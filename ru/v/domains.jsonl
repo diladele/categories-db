@@ -97,7 +97,7 @@
 {"name": "vk-anonimaizer.ru", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "vk-engineering.ru", "categories": ["nudity_pornography"], "verified": false}
 {"name": "vk-zerkalo.ru", "categories": ["proxy_anonymizer"], "verified": false}
-{"name": "vk.ru", "categories": ["business_services_industry"], "verified": false}
+{"name": "vk.ru", "categories": ["music_radio", "nudity_pornography", "social_networking", "streaming_video_television"], "verified": true}
 {"name": "vkadre.ru", "categories": ["streaming_video_television"], "verified": false}
 {"name": "vkdoor.ru", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "vkdor.ru", "categories": ["proxy_anonymizer"], "verified": false}
