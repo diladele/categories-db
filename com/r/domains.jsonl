@@ -4480,6 +4480,7 @@
 {"name": "rareaviation.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "rarebay.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "rarebdsm.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "rarebeauty.com", "categories": ["ecommerce_shopping", "fashion_beauty_cosmetics"], "verified": true}
 {"name": "rarebitblusher.com", "categories": ["advertising"], "verified": false}
 {"name": "rarebitches.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "rareboas.com", "categories": ["ecommerce_shopping"], "verified": false}
@@ -17013,6 +17014,7 @@
 {"name": "rhodesholidays.com", "categories": ["travel"], "verified": false}
 {"name": "rhodeshotel.com", "categories": ["travel"], "verified": false}
 {"name": "rhodesigns.com", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "rhodeskin.com", "categories": ["ecommerce_shopping", "fashion_beauty_cosmetics"], "verified": true}
 {"name": "rhodesmotorsports.com", "categories": ["sports"], "verified": false}
 {"name": "rhodespainthorses.com", "categories": ["sports"], "verified": false}
 {"name": "rhodesplazahotel.com", "categories": ["travel"], "verified": false}

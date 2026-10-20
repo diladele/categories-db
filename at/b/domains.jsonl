@@ -36,6 +36,7 @@
 {"name": "belstat.at", "categories": ["user_tracking"], "verified": false}
 {"name": "berg-hotel.at", "categories": ["travel"], "verified": false}
 {"name": "bergerlebnis-zillertal.at", "categories": ["travel"], "verified": false}
+{"name": "bergfex.at", "categories": ["sports", "travel"], "verified": true}
 {"name": "berghotel.at", "categories": ["travel"], "verified": false}
 {"name": "bergland-appartement.at", "categories": ["travel"], "verified": false}
 {"name": "bergwelttirol.at", "categories": ["travel"], "verified": false}
