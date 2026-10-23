@@ -21625,7 +21625,7 @@
 {"name": "testedtouch.com", "categories": ["user_tracking"], "verified": false}
 {"name": "testexemplify.com", "categories": ["advertising"], "verified": false}
 {"name": "testfilter.com", "categories": ["adult_themes_sexuality", "advertising", "nudity_pornography"], "verified": true}
-{"name": "testfiltering.com", "categories": ["software_technology_hardware"], "verified": true}
+{"name": "testfiltering.com", "categories": ["generic_non_categorized"], "verified": true}
 {"name": "testgirl.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "testher.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "testhomesex.com", "categories": ["nudity_pornography"], "verified": false}
