@@ -10941,6 +10941,7 @@
 {"name": "usproxy.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "usproxyonline.com", "categories": ["proxy_anonymizer"], "verified": false}
 {"name": "usproxyvip.com", "categories": ["proxy_anonymizer"], "verified": false}
+{"name": "usps.com", "categories": ["government", "transportation"], "verified": true}
 {"name": "uspsa.com", "categories": ["weapons"], "verified": false}
 {"name": "uspsmasters.com", "categories": ["sports"], "verified": false}
 {"name": "uspsprocycling.com", "categories": ["sports"], "verified": false}
