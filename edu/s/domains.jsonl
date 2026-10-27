@@ -34,6 +34,7 @@
 {"name": "sbcnews.sbc.edu", "categories": ["news_media"], "verified": false}
 {"name": "sbts.edu", "categories": ["religious"], "verified": false}
 {"name": "sc.edu", "categories": ["education_science_research"], "verified": true}
+{"name": "scad.edu", "categories": ["arts_society_culture", "education_science_research"], "verified": true}
 {"name": "sdga.edu", "categories": ["sports"], "verified": false}
 {"name": "sdsc.edu", "categories": ["education_science_research", "software_technology_hardware"], "verified": true}
 {"name": "sdsupress.sdsu.edu", "categories": ["ecommerce_shopping"], "verified": false}
