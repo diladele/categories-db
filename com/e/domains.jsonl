@@ -1762,6 +1762,7 @@
 {"name": "earthboundlodging.com", "categories": ["travel"], "verified": false}
 {"name": "earthbox.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "earthcalm.com", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "earthcam.com", "categories": ["photo_sharing", "streaming_video_television"], "verified": true}
 {"name": "earthcandystudio.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "earthcds.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "earthchangestv.com", "categories": ["religious"], "verified": false}

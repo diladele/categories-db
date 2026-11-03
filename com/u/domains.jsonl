@@ -10632,6 +10632,7 @@
 {"name": "user-api.com", "categories": ["user_tracking"], "verified": false}
 {"name": "user-clicks.com", "categories": ["user_tracking"], "verified": false}
 {"name": "user-red.com", "categories": ["user_tracking"], "verified": false}
+{"name": "user.com", "categories": ["advertising", "business_services_industry", "messaging_chat"], "verified": true}
 {"name": "user100.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "user8.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "userapi.com", "categories": ["social_networking"], "verified": false}

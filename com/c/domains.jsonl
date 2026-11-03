@@ -11450,6 +11450,7 @@
 {"name": "cartft.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "carthagepress.com", "categories": ["news_media"], "verified": false}
 {"name": "carthagoweb.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "cartier.com", "categories": ["ecommerce_shopping", "fashion_beauty_cosmetics"], "verified": true}
 {"name": "cartiergirls.com", "categories": ["nudity_pornography"], "verified": false}
 {"name": "cartining-specute.com", "categories": ["advertising"], "verified": false}
 {"name": "cartitans.com", "categories": ["games"], "verified": false}
@@ -27561,6 +27562,8 @@
 {"name": "cheftools.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "chefwear.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "chefworks.com", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "chegg.com", "categories": ["education_science_research"], "verified": true}
+{"name": "cheggcdn.com", "categories": ["education_science_research"], "verified": true}
 {"name": "chegostyzi.com", "categories": ["advertising"], "verified": false}
 {"name": "chegrupsishu.com", "categories": ["advertising"], "verified": false}
 {"name": "chehalemwines.com", "categories": ["alcohol_tobacco"], "verified": false}
