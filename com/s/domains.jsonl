@@ -5452,6 +5452,7 @@
 {"name": "salesbuynet.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "salesco.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "salesdoctors.com", "categories": ["nudity_pornography"], "verified": false}
+{"name": "salesfeed.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "salesforce-scrt.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "salesforce-sites.com", "categories": ["business_services_industry", "software_technology_hardware"], "verified": true}
 {"name": "salesforce.com", "categories": ["business_services_industry"], "verified": false}
@@ -86509,6 +86510,7 @@
 {"name": "steelriverstudios.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "steelrodarmoury.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "steelseat.com", "categories": ["ecommerce_shopping"], "verified": false}
+{"name": "steelseries.com", "categories": ["software_technology_hardware"], "verified": true}
 {"name": "steelshieldtech.com", "categories": ["ecommerce_shopping", "weapons"], "verified": false}
 {"name": "steelsilhouettes.com", "categories": ["ecommerce_shopping"], "verified": false}
 {"name": "steelskin.com", "categories": ["ecommerce_shopping"], "verified": false}
